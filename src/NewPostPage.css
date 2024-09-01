@@ -1,0 +1,19 @@
+/* src/NewPostPage.css */
+.new-post-container {
+    margin-top: 2rem;
+  }
+  
+  .post-type-selector {
+    margin-bottom: 2rem;
+  }
+  
+  .form-container {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .submit-button {
+    margin-top: 1rem !important;
+  }
